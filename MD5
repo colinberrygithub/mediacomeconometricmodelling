@@ -4,8 +4,6 @@ e43aac2a807c01a272cde5a3ab5fbee1 *R/oaxaca-internal.R
 25e2af51b7a0feaf363b74c62fb98d3f *R/oaxaca.R
 f5e6e748b3ea6608f14723ac7de92bd4 *inst/CITATION
 f07cdc9f01a636b6278c6e0e23059389 *inst/ChangeLog
-2a93d154ade6263d09bdcbb27c502243 *inst/doc/oaxaca.Rtex
-26860916bff9dfe4222eef88d8d9e328 *inst/doc/oaxaca.pdf
 461178a33cb759c11e5505c15c45fd02 *man/chicago.Rd
 9a208c469cd8fdee3536563b28ff5e3d *man/oaxaca.Rd
 f66e518718d0a4143ae38127e5cba072 *man/plot.oaxaca.Rd
