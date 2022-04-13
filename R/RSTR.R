@@ -34,11 +34,7 @@ getLowerUpperRSTR = function(m, confidence)
 #' @templateVar topLevel2 \strong{}
 #' @templateVar topLevel3 \strong{}
 #' @templateVar topLevel4 \strong{}
-#' @templateVar topLevel5 \item \strong{method} -- always contains string \code{"RSTRmodel"} for this function.
-#' @template returnValue
-#' @references Dokumentov, A., and Hyndman, R.J. (2016)
-#' STR: A Seasonal-Trend Decomposition Procedure Based on Regression
-#' \href{https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}{www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}
+
 #' @examples
 #' \donttest{
 #'
@@ -66,8 +62,7 @@ getLowerUpperRSTR = function(m, confidence)
 #' rstr <- RSTRmodel(data, predictors, confidence = 0.8)
 #' plot(rstr)
 #' }
-#' @author Alexander Dokumentov
-#' @export
+
 
 RSTRmodel = function(data, predictors = NULL, strDesign = NULL, lambdas = NULL,
                confidence = NULL, # confidence = c(0.8, 0.95)
