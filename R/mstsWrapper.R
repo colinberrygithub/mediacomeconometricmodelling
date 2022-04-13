@@ -23,10 +23,6 @@
 #' @templateVar topLevel4 \item \strong{gapCV} -- the input \code{gapCV} parameter.
 #' @templateVar topLevel5 \item \strong{method} -- always contains string \code{"AutoSTR"} for this function.
 #' @template returnValue
-#' @author Alexander Dokumentov
-#' @references Dokumentov, A., and Hyndman, R.J. (2016)
-#' STR: A Seasonal-Trend Decomposition Procedure Based on Regression
-#' \href{https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}{www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}
 #' @seealso \code{\link{STR}}
 #' @examples
 #' \donttest{
