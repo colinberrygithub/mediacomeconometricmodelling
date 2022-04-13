@@ -22,9 +22,6 @@ c6b4eb2c731af50fc9bc2308e76a510e *R/plotBeta.R
 60fb147c08964a948fd3e17729507a89 *R/seasadj.R
 1e6900254d8fa5b5d1932d98eba5cdd1 *build/vignette.rds
 c1590ac47e6321e5a16655df61d1d2df *data/calls.RData
-4b608da1fdf2cf0cb39145a6c4beff76 *inst/doc/stRvignette.R
-7b1c2c894f991fe8bae676722ba1fa5c *inst/doc/stRvignette.Rmd
-ca5f2f12d03192ab2ae5c6259c2bf8cd *inst/doc/stRvignette.html
 3f936159de6bfdb2bf5da17d90d060cf *man/AutoSTR.Rd
 8e1212b1374961b9b5c6d7141f70f085 *man/RSTRmodel.Rd
 898d7288647620d4c91479d96bbe5d5f *man/STR.Rd
