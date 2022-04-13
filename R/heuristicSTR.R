@@ -164,11 +164,7 @@
 #' plotBeta(elec.fit, predictorN = 5)
 #'
 #' }
-#' @author Alexander Dokumentov
-#' @references Dokumentov, A., and Hyndman, R.J. (2016)
-#' STR: A Seasonal-Trend Decomposition Procedure Based on Regression
-#' \href{https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}{www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-15.pdf}
-#' @export
+
 
 heuristicSTR = function(data, predictors,
                         confidence = NULL, lambdas = NULL,
