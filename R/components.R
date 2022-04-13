@@ -9,8 +9,6 @@
 #' @description \code{components} extracts components as time series from the result of an STR decomposition.
 #' @seealso \code{\link{STRmodel}}, \code{\link{RSTRmodel}}, \code{\link{STR}}, \code{\link{AutoSTR}}
 #' @param object Result of STR decomposition.
-#' @author Alexander Dokumentov
-#' @examples
 #' \donttest{
 #'
 #' fit <- AutoSTR(log(grocery))
